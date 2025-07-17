@@ -1,0 +1,24 @@
+1-What are CRUD operations? 
+
+ANS:CRUD stands for: 
+
+Create → Add new data 
+
+Read → Retrieve existing data 
+
+Update → Modify existing data 
+
+Delete → Remove existing data 
+
+These are the four basic functions required to manage data in any application. 
+
+
+ Importance of CRUD in API Development: 
+
+CRUD operations are the backbone of any RESTful API. They allow clients to: 
+
+Interact with the server's data 
+
+Maintain consistency and flow of data 
+
+Perform all necessary database actions through standard HTTP methods (GET, POST, PUT, DELETE)
